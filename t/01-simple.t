@@ -24,7 +24,7 @@ BEGIN { use_ok('Class::TransparentFactory'); }
     use Class::TransparentFactory qw(foo bar);
 
     sub impl {
-        my $wanted = (caller(1))[3]) eq 'foo' ? 'Moose' : 'Caribou';
+        my $wanted = (caller(1))[3] =~ /::foo$/ ? 'Moose' : 'Caribou';
         return "Provider2::${wanted}Provider";
     }
 
