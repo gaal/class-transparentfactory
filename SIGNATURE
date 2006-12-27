@@ -15,9 +15,10 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 97f5dd1a8abe75754ed9019cde061a6d119c2fe9 .cvsignore
-SHA1 10ff12d1b88afd72650dea94fc7589279ad15e70 Changes
-SHA1 e75773de713a7f64638dcc0e63aa892ec6c5e843 MANIFEST
-SHA1 5f3619cbe2a4bcda8e5aaae16bb1dc3d2713ddf0 META.yml
+SHA1 a372262d60913d0273221da92a394a51ccfe559d Changes
+SHA1 012280658314eb5c139f368ef48380894764541a MANIFEST
+SHA1 708fc3d16cb61f57e4f47cea5b91c5ceb3f7770b MANIFEST.SKIP
+SHA1 47a2d03befbcd1a71edf6097caa5e8b12146b742 META.yml
 SHA1 dbf0e52ec591f6090607c41acb352998aa51ed68 Makefile.PL
 SHA1 303cb23070fd171551a08ce37487ab43cbeb1fa9 README
 SHA1 603bb9de29fb8cba7f13409c546750972eff645d inc/Module/AutoInstall.pm
@@ -31,16 +32,16 @@ SHA1 2249171a2b72cd73ff2c0a06597d29f86e5df456 inc/Module/Install/Makefile.pm
 SHA1 381bb98ea3877bba49ae85e7a7ea130645fd3dbf inc/Module/Install/Metadata.pm
 SHA1 0c2118868ef82ac517eb6d9c3bd93e6eb9bbf83e inc/Module/Install/Win32.pm
 SHA1 e827d6d43771032fa3df35c0ad5e5698d0e54cda inc/Module/Install/WriteAll.pm
-SHA1 e2749df3b5cec0e712d24fa6cf92b864855c97e3 lib/Class/TransparentFactory.pm
+SHA1 195ad0b54649759357bf585dd06809bc5b9a82aa lib/Class/TransparentFactory.pm
 SHA1 bde875ead9c09a52b1612e8f35426abdc5d34f62 t/00-load.t
-SHA1 d17373cdf06a1188cc772a8ae4cbf534e84e0e4c t/01-simple.t
+SHA1 96e95f930837f06fefc4cb3caa8b1007678b9997 t/01-simple.t
 SHA1 c41fc3f57eec8991507387e550714cc9db177e55 t/boilerplate.t
 SHA1 6da39b48ce64b584e4c3274bff96fc76ff484820 t/pod-coverage.t
 SHA1 0190346d7072d458c8a10a45c19f86db641dcc48 t/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.5 (GNU/Linux)
 
-iD8DBQFFkYfMN2uCuGP2mw4RAmo7AJ41Kbgl+p8ydJm1DvEwDLySbqQSzACdG9hC
-qZHHlQcarEU2RjHAh3zStlU=
-=b0BX
+iD8DBQFFklv9N2uCuGP2mw4RAndaAKCBzlYO5XmYiC+5jabzT5HZSVRn0ACgn8WJ
+KZkT/ga7KHVvrNY+cUlYAa0=
+=fuaV
 -----END PGP SIGNATURE-----
